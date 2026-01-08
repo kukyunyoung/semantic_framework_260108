@@ -1,0 +1,5 @@
+[console_scripts]
+fake_robot = semantic_map_loader.fake_robot_node:main
+semantic_map_loader = semantic_map_loader.semantic_map_loader:main
+semantic_nav = semantic_map_loader.semantic_nav:main
+

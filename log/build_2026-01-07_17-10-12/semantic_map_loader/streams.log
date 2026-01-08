@@ -1,0 +1,26 @@
+[0.679s] Invoking command in '/home/n/semantic_map_ui/src/semantic_map_loader': PYTHONPATH=/home/n/semantic_map_ui/build/semantic_map_loader/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/n/semantic_map_ui/install/semantic_map_loader/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/semantic_map_loader build --build-base /home/n/semantic_map_ui/build/semantic_map_loader/build install --record /home/n/semantic_map_ui/build/semantic_map_loader/install.log --single-version-externally-managed install_data
+[0.904s] running egg_info
+[0.904s] writing ../../build/semantic_map_loader/semantic_map_loader.egg-info/PKG-INFO
+[0.905s] writing dependency_links to ../../build/semantic_map_loader/semantic_map_loader.egg-info/dependency_links.txt
+[0.905s] writing entry points to ../../build/semantic_map_loader/semantic_map_loader.egg-info/entry_points.txt
+[0.905s] writing requirements to ../../build/semantic_map_loader/semantic_map_loader.egg-info/requires.txt
+[0.905s] writing top-level names to ../../build/semantic_map_loader/semantic_map_loader.egg-info/top_level.txt
+[0.907s] reading manifest file '../../build/semantic_map_loader/semantic_map_loader.egg-info/SOURCES.txt'
+[0.908s] writing manifest file '../../build/semantic_map_loader/semantic_map_loader.egg-info/SOURCES.txt'
+[0.908s] running build
+[0.908s] running build_py
+[0.908s] copying semantic_map_loader/semantic_nav.py -> /home/n/semantic_map_ui/build/semantic_map_loader/build/lib/semantic_map_loader
+[0.908s] running install
+[0.909s] running install_lib
+[0.909s] copying /home/n/semantic_map_ui/build/semantic_map_loader/build/lib/semantic_map_loader/semantic_nav.py -> /home/n/semantic_map_ui/install/semantic_map_loader/lib/python3.10/site-packages/semantic_map_loader
+[0.910s] byte-compiling /home/n/semantic_map_ui/install/semantic_map_loader/lib/python3.10/site-packages/semantic_map_loader/semantic_nav.py to semantic_nav.cpython-310.pyc
+[0.910s] running install_data
+[0.911s] running install_egg_info
+[0.912s] removing '/home/n/semantic_map_ui/install/semantic_map_loader/lib/python3.10/site-packages/semantic_map_loader-0.0.0-py3.10.egg-info' (and everything under it)
+[0.912s] Copying ../../build/semantic_map_loader/semantic_map_loader.egg-info to /home/n/semantic_map_ui/install/semantic_map_loader/lib/python3.10/site-packages/semantic_map_loader-0.0.0-py3.10.egg-info
+[0.913s] running install_scripts
+[0.935s] Installing fake_robot script to /home/n/semantic_map_ui/install/semantic_map_loader/lib/semantic_map_loader
+[0.935s] Installing semantic_map_loader script to /home/n/semantic_map_ui/install/semantic_map_loader/lib/semantic_map_loader
+[0.935s] Installing semantic_nav script to /home/n/semantic_map_ui/install/semantic_map_loader/lib/semantic_map_loader
+[0.936s] writing list of installed files to '/home/n/semantic_map_ui/build/semantic_map_loader/install.log'
+[0.962s] Invoked command in '/home/n/semantic_map_ui/src/semantic_map_loader' returned '0': PYTHONPATH=/home/n/semantic_map_ui/build/semantic_map_loader/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/n/semantic_map_ui/install/semantic_map_loader/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/semantic_map_loader build --build-base /home/n/semantic_map_ui/build/semantic_map_loader/build install --record /home/n/semantic_map_ui/build/semantic_map_loader/install.log --single-version-externally-managed install_data
